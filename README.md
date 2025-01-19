@@ -7,7 +7,8 @@
 🔍 **Currently exploring real-time data pipelines and predictive modeling to empower businesses with data-driven decisions.**
 
 ## Why Salesforce? 🤔  
-Salesforce's mission to empower businesses through intelligent CRM and analytics aligns with my passion for driving data-driven insights. Through my projects, I aim to contribute to this ecosystem by solving real-world problems, creating scalable pipelines, and providing actionable insights.
+Salesforce inspires me with its mission to drive customer success through intelligent solutions. My journey with Salesforce began when I recognized its potential to empower organizations with unified data and actionable insights.
+
 
 ---
 
